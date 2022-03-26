@@ -12,4 +12,4 @@ tensorRT：TensorRT版本模型、测试图像、测试结果、测试demo脚本
 
 # 测试结果
 
-![image]()
+![image](https://github.com/cqu20160901/plateRegress_caffe_onnx_tensorRT/blob/master/tensorRT/result_tensorRT.jpg)
